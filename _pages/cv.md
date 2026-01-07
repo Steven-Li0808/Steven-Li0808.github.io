@@ -34,25 +34,18 @@ Approaches and experimental designs:
 
 -Developed and maintained transgenic mouse lines for liver-specific neoantigen expression; implemented efficient genotyping and
 colony-tracking pipelines on SoftMouse.
-
 -Designed viral vector-mediated tissue-specific delivery (I.V./retro-orbital vs. S.C.) to compare hepatic vs. peripheral immune
 responses.
-
 -Quantified cytokine production (IFN-γ, TNF-α, IL-2) after peptide restimulation of antigen (Ag)-specific CD8+ T cells from
 multiple tissues, revealing impaired IFN-γ, TNF-α and IL-2 responses in liver-targeted mice.
-
 -Used multiparameter flow cytometry to profile CD8+ T cell subsets; identified upregulated expression of PD-1, TIM-3, LAG-3
 in Ag-specific CD8+ T cells despite preserved expression of Perforin, Granzyme A and B.
-
 -Identified Ag-specific CD44+ CD4+ FoxP3+ regulatory T cells (Tregs) in the presence of cognate dysfunctional Ag-specific CD8+
 T cells following primary liver infection, suggesting that Tregs may exert immunosuppressive effects on these CD8+ T cells.
-
 -Discovered persistence of the dysfunctional phenotype of Ag-specific CD8+ T cells upon rechallenge > 30 days, suggesting stable
 transcriptional/epigenetic reprogramming of memory precursors.
-
 -Used CRISPR/Cas9 to knock out PDCD1 in transgenic CD8+ T cells; adoptive-transfer experiments confirmed PD-1 upregulated
 expression was a consequence, not a cause, of dysfunction.
-
 -Benchmarked the liver-targeted infection model against LCMV-Armstrong and LCMV-Clone 13, revealing shared
 exhaustive/dysfunctional phenotypes in Ag-specific CD4+/CD8+ T cells.
 
@@ -71,16 +64,12 @@ Approaches and experimental designs:
 -Developed a co-axial extrusion method for producing Ca2+-crosslinked alginate microfibers, enabling precise sacrificial templating within GelMA hydrogels to create defined microchannel architectures.
 
 -Improved the co-axial extrusion method to encapsulate cells efficiently, achieving reliable cell loading without compromising cell viability.
-
 -Built a complete workflow for degumming, purifying, concentrating, and chemically modifying silk fibers to produce silk
 methacrylate (Sil-MA), a tunable photocrosslinkable polymer for tissue-specific scaffold engineering.
-
 -Optimized a cold-chamber-integrated microfluidic device, enabling mL-scale, 10+ hour continuous production of Sil-MA
 microgels.
-
 -Implemented a DMSO-water solvent exchange approach to precisely control ice crystal growth during the freezing step, producing
 uniform, size-controlled spherical microsponges after lyophilization.
-
 -Assessed key material properties-including stiffness, rheology, porosity, and cell compatibility-using a combination of compression tests, rheological measurements, and CCK-8 assays.
 
 Westlake University, School of Life Science & Engineering Hangzhou, China
@@ -94,10 +83,8 @@ Approaches and experimental designs:
 
 -Established the whole pipeline (from 0-1) for magnetic nanoparticle (NMP) synthesis, with the great size control (~300-500nm)
 and universal modification strategy for surface protein immobilization
-
 -To validate the porosity and tunable stiffness of SF-based films and hydrogels, I conducted SEM, TEM, and AFM to test our
 hypothesis that the increased concentration should enhanced the mechanical stiffness but reduce the porosity.
-
 -I conducted comprehensive literature review, executed preliminary experiments to expand the biomedical applications of SF such
 as bioadhesives.
 
@@ -115,7 +102,6 @@ Approaches and experimental designs:
 
 -Analyzed experimental data for CaO2@PCL microparticles, including oxygen-release profiles, porous structures, pore-size
 quantification, and imaging-based assessment of osteogenic potential.
-
 -Conducted an extensive literature review on oxygen-releasing biomaterials and contributed to the proposal draft and manuscript
 revision for submission to Trends in Biotechnology.
 
@@ -234,9 +220,9 @@ Wu YX, Peng K, Li J, Dong ZB. An efficient copper-catalyzed C(sp2)–S f
 Talks
 ======
 CONFERENCES/POSTERS
-PME Research Symposium (2024) -Treg induction in liver: mechanistic insights and therapeutic implications. (Poster presentation)
 
-Chicago BioEngineering Conference (2024) - Treg induction in liver: mechanistic insights and therapeutic implications. (Poster
+-PME Research Symposium (2024) -Treg induction in liver: mechanistic insights and therapeutic implications. (Poster presentation)
+-Chicago BioEngineering Conference (2024) - Treg induction in liver: mechanistic insights and therapeutic implications. (Poster
 presentation)
   
 Teaching
