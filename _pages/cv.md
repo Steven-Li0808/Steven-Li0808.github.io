@@ -16,95 +16,124 @@ Education
 
 Work experience
 ======
-University of Illinois at Urbana-Champaign, Department of Biochemistry Urbana, IL
-Research Assistant Aug 2025–Present
-Major project summary:
-Ongoing independent project: No report has shown the casual or the consequential relationship between self-antigen targeting
-auto-antibodies and the onset of inflammatory bowel disease (IBD). Therefore, we aim to investigate whether the presence of
-these autoantibodies represents a causal biomarker for IBD development.
-Approaches and expected goals (by July of 2026):
--To identify the presence of autoantibodies against self-antigens from the serum of IBD patients, I will express the target self-
-antigens such as anti-αvβ6, through molecular cloning, and assess the presence of anti-αvβ6-specific autoantibodies in IBD
-patients through ELISA.
--To elucidate the mechanism of autoantibody presence against self-antigens, I will build a phage display human antibody library to select high affinity antibodies.
--In the end, to reveal the structural basis underlying the interaction between the antibodies and the antigen, I will conduct Cryo- EM to illustrate the antibody-binding sites to the self-antigens to provide site-specific therapeutic vision for IBD patients.
+University of Illinois at Urbana-Champaign, Department of Biochemistry, Urbana, IL
+Research Assistant 
+Aug 2025–Present
 
-University of Chicago, Pritzker School of Molecular Engineering & Medicine Graduate Research Assistant (Ph.D. Candidate) Chicago, IL Jul 2023–Jun 2025
+University of Chicago, Pritzker School of Molecular Engineering & Medicine, Chicago, IL
+Graduate Research Assistant (Ph.D. Candidate)  
+Jul 2023–Jun 2025
+
 Major project summary:
+
 -Independent project: Little is known regarding why virus-specific CD8+ T cells become dysfunctional during liver-specific viral
 infection. Therefore, this project aims to elucidate mechanisms of the dysfunctional phenotypes of Ag-specific CD8+ T cells in
 the context of acute liver-targeting viral infection.
+
 Approaches and experimental designs:
+
 -Developed and maintained transgenic mouse lines for liver-specific neoantigen expression; implemented efficient genotyping and
 colony-tracking pipelines on SoftMouse.
+
 -Designed viral vector-mediated tissue-specific delivery (I.V./retro-orbital vs. S.C.) to compare hepatic vs. peripheral immune
 responses.
+
 -Quantified cytokine production (IFN-γ, TNF-α, IL-2) after peptide restimulation of antigen (Ag)-specific CD8+ T cells from
 multiple tissues, revealing impaired IFN-γ, TNF-α and IL-2 responses in liver-targeted mice.
+
 -Used multiparameter flow cytometry to profile CD8+ T cell subsets; identified upregulated expression of PD-1, TIM-3, LAG-3
 in Ag-specific CD8+ T cells despite preserved expression of Perforin, Granzyme A and B.
+
 -Identified Ag-specific CD44+ CD4+ FoxP3+ regulatory T cells (Tregs) in the presence of cognate dysfunctional Ag-specific CD8+
 T cells following primary liver infection, suggesting that Tregs may exert immunosuppressive effects on these CD8+ T cells.
+
 -Discovered persistence of the dysfunctional phenotype of Ag-specific CD8+ T cells upon rechallenge > 30 days, suggesting stable
 transcriptional/epigenetic reprogramming of memory precursors.
+
 -Used CRISPR/Cas9 to knock out PDCD1 in transgenic CD8+ T cells; adoptive-transfer experiments confirmed PD-1 upregulated
 expression was a consequence, not a cause, of dysfunction.
+
 -Benchmarked the liver-targeted infection model against LCMV-Armstrong and LCMV-Clone 13, revealing shared
 exhaustive/dysfunctional phenotypes in Ag-specific CD4+/CD8+ T cells.
 
 Tsinghua University, Department of Mechanical Engineering Beijing, China
-Research Scientist Aug 2022–Jul 2023
+Research Scientist 
+Aug 2022–Jul 2023
+
 Major project summary:
+
 -Independent project: The hypoxia, the lack of nutrients within the implanted tissue scaffolds and the mechanically rigid property
 limits their translational applications since these properties may lead to chronic inflammation and foreign body response.
 Therefore, this project aims to develop a highly porous, mechanically compressible, and immuno-compatible biopolymer-based
 scaffolds for injured tissue regeneration.
+
 Approaches and experimental designs:
-▪ Developed a co-axial extrusion method for producing Ca2+
--crosslinked alginate microfibers, enabling precise sacrificial templating
-within GelMA hydrogels to create defined microchannel architectures.
-▪ Improved the co-axial extrusion method to encapsulate cells efficiently, achieving reliable cell loading without compromising cell
-viability.
-▪ Built a complete workflow for degumming, purifying, concentrating, and chemically modifying silk fibers to produce silk
+-Developed a co-axial extrusion method for producing Ca2+-crosslinked alginate microfibers, enabling precise sacrificial templating within GelMA hydrogels to create defined microchannel architectures.
+
+-Improved the co-axial extrusion method to encapsulate cells efficiently, achieving reliable cell loading without compromising cell viability.
+
+-Built a complete workflow for degumming, purifying, concentrating, and chemically modifying silk fibers to produce silk
 methacrylate (Sil-MA), a tunable photocrosslinkable polymer for tissue-specific scaffold engineering.
-▪ Optimized a cold-chamber-integrated microfluidic device, enabling mL-scale, 10+ hour continuous production of Sil-MA
+
+-Optimized a cold-chamber-integrated microfluidic device, enabling mL-scale, 10+ hour continuous production of Sil-MA
 microgels.
-▪ Implemented a DMSO-water solvent exchange approach to precisely control ice crystal growth during the freezing step, producing
+
+-Implemented a DMSO-water solvent exchange approach to precisely control ice crystal growth during the freezing step, producing
 uniform, size-controlled spherical microsponges after lyophilization.
-▪ Assessed key material properties-including stiffness, rheology, porosity, and cell compatibility-using a combination of compression
-tests, rheological measurements, and CCK-8 assays.
+
+-Assessed key material properties-including stiffness, rheology, porosity, and cell compatibility-using a combination of compression tests, rheological measurements, and CCK-8 assays.
+
 Westlake University, School of Life Science & Engineering Hangzhou, China
-Research Fellow Jan 2021–Feb 2022
+Research Fellow 
+Jan 2021–Feb 2022
 Major project summary:
-▪ Independent project: Little has been investigated regarding the immunogenicity/foreign body response towards the implanted
+-Independent project: Little has been investigated regarding the immunogenicity/foreign body response towards the implanted
 silk fibroin (SF)-based scaffolds. Therefore, these projects aim to 1) chemically modify SF and tune the mechanical properties to
 control the inflammatory condition; 2) to remove the biological residue to reduce the immunogenicity of SF hydrogels
 Approaches and experimental designs:
-▪ Established the whole pipeline (from 0-1) for magnetic nanoparticle (NMP) synthesis, with the great size control (~300-500nm)
+
+-Established the whole pipeline (from 0-1) for magnetic nanoparticle (NMP) synthesis, with the great size control (~300-500nm)
 and universal modification strategy for surface protein immobilization
-▪ To validate the porosity and tunable stiffness of SF-based films and hydrogels, I conducted SEM, TEM, and AFM to test our
+
+-To validate the porosity and tunable stiffness of SF-based films and hydrogels, I conducted SEM, TEM, and AFM to test our
 hypothesis that the increased concentration should enhanced the mechanical stiffness but reduce the porosity.
-▪ I conducted comprehensive literature review, executed preliminary experiments to expand the biomedical applications of SF such
+
+-I conducted comprehensive literature review, executed preliminary experiments to expand the biomedical applications of SF such
 as bioadhesives.
+
 Brigham and Women’s Hospital, Harvard Medical School Cambridge, MA
-Research Trainee March 2020–March 2021
+Research Trainee 
+March 2020–March 2021
+
 Major project summary:
-▪ Implantable biomaterials suffer from low oxygen diffusion rates, negatively impacting their survival rate. In this project, a
+
+-Implantable biomaterials suffer from low oxygen diffusion rates, negatively impacting their survival rate. In this project, a
 CaO2@PCL microparticles were developed to serve as the oxygen generating component to address the hypoxic conditions within
 the implanted scaffolds.
+
 Approaches and experimental designs:
-▪ Analyzed experimental data for CaO2@PCL microparticles, including oxygen-release profiles, porous structures, pore-size
+
+-Analyzed experimental data for CaO2@PCL microparticles, including oxygen-release profiles, porous structures, pore-size
 quantification, and imaging-based assessment of osteogenic potential.
-▪ Conducted an extensive literature review on oxygen-releasing biomaterials and contributed to the proposal draft and manuscript
+
+-Conducted an extensive literature review on oxygen-releasing biomaterials and contributed to the proposal draft and manuscript
 revision for submission to Trends in Biotechnology.
-Wuhan Institute of Technology, School of Materials Science & Engineering Undergraduate Research Fellow Wuhan, China
+
+Wuhan Institute of Technology, School of Materials Science & Engineering  Fellow Wuhan, China
+
+Undergraduate Research
+
 Jul 2018–Mar 2020
+
 Major project summary:
-▪ Nickel salts are low cost and relative low toxicity (unlike most expensive metal catalysts) and have been reported as powerful
+
+-Nickel salts are low cost and relative low toxicity (unlike most expensive metal catalysts) and have been reported as powerful
 catalysts in the cross-coupling reactions. we developed an efficient protocol for the preparation of 2-aminobenzothiazoles via
 nickel-catalyzed intramolecular oxidative C-H functionalization, particularly with N-arylthioureas as the starting substances.
+
 Approaches and experimental designs:
-▪ To increase the product purity and yield, I was helping to optimize synthesis protocols and conducted literature review with a
+
+-To increase the product purity and yield, I was helping to optimize synthesis protocols and conducted literature review with a
 senior graduate student on Chan-Lam reactions.
   
 Skills
